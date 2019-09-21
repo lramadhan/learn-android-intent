@@ -1,1 +1,1 @@
-![how's it work](example.gif)
+![how's it work](intent.gif)
